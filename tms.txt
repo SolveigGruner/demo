@@ -1,2 +1,2 @@
 Husk tabelltipping
-Bug
+bugFix
