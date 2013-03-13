@@ -1,2 +1,3 @@
 Husk tabelltipping
 bugFix
+Større knapper
