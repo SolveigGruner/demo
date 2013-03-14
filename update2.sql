@@ -1,1 +1,1 @@
-create table b
+CREATE TABLE A
